@@ -1,5 +1,6 @@
 # GrupoC_escapa-de-la-chamba_rodas-josue
 Integrantes: Candelario Wilson - Rosado Cristopher - Alvarado Eli - Gomez Juan - Lopez Cristopher - Chele Angel - Rodas Josue 
+
 Introducción: Nuestro proyecto está inspirado en una fábrica de chocolate que, durante el desarrollo del juego, se ve afectada por un sabotaje que provoca la explosión de uno de sus tostadores y ocasiona daños importantes en las instalaciones. A partir de este acontecimiento, los jugadores deberán encontrar la manera de escapar de la fábrica, superando diferentes obstáculos, resolviendo acertijos y completando desafíos que encontrarán a lo largo de la partida. La historia busca mantener al jugador atento y motivado, ya que cada etapa representa un nuevo reto que deberá superar para continuar avanzando.
 
 Además del entretenimiento, este proyecto tiene como propósito crear una forma más dinámica e interesante de acercarnos al mundo de la programación y la codificación de videojuegos. A través de su desarrollo, buscamos poner en práctica nuestros conocimientos y comprender mejor cómo funcionan los diferentes elementos que componen un videojuego, desde las mecánicas de movimiento hasta la interacción con los escenarios y los sistemas de respuesta.
