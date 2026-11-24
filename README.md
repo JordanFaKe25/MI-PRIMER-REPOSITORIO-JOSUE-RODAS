@@ -8,6 +8,7 @@ Además del entretenimiento, este proyecto tiene como propósito crear una forma
 Por otro lado, queremos darle un enfoque diferente al aprendizaje de las matemáticas, especialmente al área de cálculo. Para avanzar de una etapa a otra, los jugadores deberán resolver ejercicios relacionados con derivadas e integrales, los cuales estarán integrados en distintas situaciones dentro de la fábrica. De esta manera, los conocimientos matemáticos no se presentan como simples actividades académicas, sino como parte fundamental de la experiencia de juego. Cada respuesta correcta permitirá superar un obstáculo y acercarse un poco más al objetivo principal: escapar de la fábrica.
 
 También buscamos fomentar el trabajo en equipo, la comunicación y la capacidad para resolver problemas, ya que los jugadores deberán colaborar para superar los desafíos que se presenten durante la partida. Consideramos que aprender no tiene por qué ser una actividad monótona o aburrida; por eso, nuestra propuesta consiste en combinar la educación con la diversión, creando un entorno en el que los estudiantes puedan practicar sus conocimientos mientras disfrutan de una experiencia interactiva.
+
 Tabla explicativa:
 | ID | Tipo de requisito | Descripción del requisito | Caso de prueba propuesto | Resultado esperado |
 |---|---|---|---|---|
