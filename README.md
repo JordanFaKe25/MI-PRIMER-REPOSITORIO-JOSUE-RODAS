@@ -1,5 +1,12 @@
 # GrupoC_escapa-de-la-chamba_rodas-josue
-Integrantes: Candelario Wilson - Rosado Cristopher - Alvarado Eli - Gomez Juan - Lopez Cristopher - Chele Angel - Rodas Josue 
+## Integrantes: 
+- Candelario Wilson
+- Rosado Cristopher
+- Alvarado Eli
+- Gomez Juan
+- Lopez Cristopher
+- Chele Angel
+- Rodas Josue 
 
 ## Introducción:
 
