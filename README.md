@@ -22,4 +22,4 @@ Tabla explicativa:
 
 ## Referencias
 
-TPE4_Requerimientos_y_Pruebas.pdf
+[TPE4_Requerimientos_y_pruebas]([PEGA_AQUÍ_TU_ENLACE](https://github.com/JordanFaKe25/MI-PRIMER-REPOSITORIO-JOSUE-RODAS/blob/main/grupoC_escapa-de-la-chamba_rodas-josue/TPE4_Requerimientos_y_Pruebas.pdf))
