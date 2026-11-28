@@ -1,7 +1,9 @@
 # GrupoC_escapa-de-la-chamba_rodas-josue
 Integrantes: Candelario Wilson - Rosado Cristopher - Alvarado Eli - Gomez Juan - Lopez Cristopher - Chele Angel - Rodas Josue 
 
-Introducción: Nuestro proyecto está inspirado en una fábrica de chocolate que, durante el desarrollo del juego, se ve afectada por un sabotaje que provoca la explosión de uno de sus tostadores y ocasiona daños importantes en las instalaciones. A partir de este acontecimiento, los jugadores deberán encontrar la manera de escapar de la fábrica, superando diferentes obstáculos, resolviendo acertijos y completando desafíos que encontrarán a lo largo de la partida. La historia busca mantener al jugador atento y motivado, ya que cada etapa representa un nuevo reto que deberá superar para continuar avanzando.
+## Introducción:
+
+Nuestro proyecto está inspirado en una fábrica de chocolate que, durante el desarrollo del juego, se ve afectada por un sabotaje que provoca la explosión de uno de sus tostadores y ocasiona daños importantes en las instalaciones. A partir de este acontecimiento, los jugadores deberán encontrar la manera de escapar de la fábrica, superando diferentes obstáculos, resolviendo acertijos y completando desafíos que encontrarán a lo largo de la partida. La historia busca mantener al jugador atento y motivado, ya que cada etapa representa un nuevo reto que deberá superar para continuar avanzando.
 
 Además del entretenimiento, este proyecto tiene como propósito crear una forma más dinámica e interesante de acercarnos al mundo de la programación y la codificación de videojuegos. A través de su desarrollo, buscamos poner en práctica nuestros conocimientos y comprender mejor cómo funcionan los diferentes elementos que componen un videojuego, desde las mecánicas de movimiento hasta la interacción con los escenarios y los sistemas de respuesta.
 
@@ -17,4 +19,7 @@ Tabla explicativa:
 | RF-03 | Funcional | Cuando los equipos terminan sus zonas, pasan a la arena, donde se les plantea un ejercicio final. El primer equipo que lo resuelva correctamente gana la partida. | Llevamos a dos equipos a la arena al mismo tiempo. Uno de ellos responde bien el ejercicio final primero; el otro lo responde después. También probamos dar una respuesta incorrecta. | El juego anuncia como ganador al primer equipo que resolvió bien el ejercicio y el segundo ya no puede ganar. Si la respuesta es incorrecta, el equipo debe seguir intentando. |
 | RNF-01 | No funcional | El juego tiene que poder jugarse no solo en computadora, sino también con gafas de realidad virtual, sin que el jugador quede trabado en ninguna parte por usar otro dispositivo. | Jugamos una partida corta usando solo un mando: entrar a un equipo, abrir un cajón y responder el ejercicio de una puerta. Luego repetimos lo mismo con las gafas VR. | Se pueden hacer todas esas acciones sin usar teclado ni ratón, tanto con el mando como con las gafas. |
 | RNF-02 | No funcional | Como muchos estudiantes no tienen computadoras potentes, el juego debe correr bien en equipos de gama baja: sin bajar de 30 FPS y tardando como máximo 10 segundos en cargar cada zona. | En una laptop de gama baja, entramos a una zona y jugamos unos 5 minutos, revisando los FPS con el monitor de Roblox y cronometrando cuánto tarda en cargar. | El juego se mantiene en 30 FPS o más, la zona carga en 10 segundos o menos y no se cierra en ningún momento. |
-referencias: TPE4_Requerimientos_y_pruebas
+
+## Referencias
+
+TPE4_Requerimientos_y_Pruebas.pdf
